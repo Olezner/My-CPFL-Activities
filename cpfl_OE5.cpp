@@ -1,3 +1,9 @@
+//Name: Oriean Lezner R. Bagsic
+//Section: BSCS 1-1
+//Date: November 04, 2021
+//Outcome Evaluation #5
+//Description: The program should be able to revers a string or integer inputted by the user.
+
 #include <iostream>
 #include <string>
 
