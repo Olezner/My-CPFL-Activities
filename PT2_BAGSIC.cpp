@@ -1,8 +1,9 @@
 //Name: Oriean Lezner R. Bagsic
 //Section: BSCS 1-1
-//Date: September 10, 2021
-//Performance Task #1
+//Date: November 04, 2021
+//Performance Task #2
 //Description: The program given to us is used to convert Peso to Dollar and vice versa, but there are a lot of errors such as typos and wrong implementation of functions.
+
 #include <iostream>
 
 using namespace std;
